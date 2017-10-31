@@ -1,4 +1,4 @@
-"use strict"
+"use strict" //для использования EcmaScript5
 
 /* Для вставки скриптов на страницу есть 2 способа:
    - писать сразу в html-файле внутри тэга <script>...</script>(Смотри testhtml.html)
